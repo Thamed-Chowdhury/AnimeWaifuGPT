@@ -1,4 +1,4 @@
-# pygame, pygame_gui, deep_translator, edge_tts, google-genai, google-generative-ai
+# PUT YOUR API KEYS IN LINES 78 and 79
 import asyncio
 import pygame, sys
 import pygame_gui
@@ -75,8 +75,8 @@ def conversation(speech):
     chat_response = get_gemini_response(
         full_prompt,
         [
-            "AIzaSyBSHfvG_HzImxq3WUV4CO8nYA6bJhIb2eM",
-            "AIzaSyC2HV6Kv4W60dcvLmQqaZKnNzE041zdJNQ",
+            "YOUR API KEY 1",
+            "YOUR API KEY 2",
         ],
     )
 
