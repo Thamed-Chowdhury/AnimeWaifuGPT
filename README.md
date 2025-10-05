@@ -9,7 +9,7 @@
 
 ## 🧬 Overview
 
-**AnimeWaifyGPT** is an interactive anime-style AI assistant powered by **Google Gemini 2.5-Flash**, **Pygame**, and **Edge-TTS**.
+**AnimeWaifuGPT** is an interactive anime-style AI assistant powered by **Google Gemini 2.5-Flash**, **Pygame**, and **Edge-TTS**.
 You can chat with **GPT-chan**, an anime-inspired character who responds to your messages with both **voice and lip-synced animation**.
 
 Type any message in the text box, and GPT-chan will “think,” respond aloud, and animate her sprite while speaking.
