@@ -89,7 +89,7 @@ This project is released under the **MIT License** — you are free to modify an
 
 ## 🖼️ Screenshot
 
-<img width="1004" height="468" alt="image" src="https://github.com/user-attachments/assets/5b50a850-d1c5-4054-8c90-8369b98caa3a" />
+<img width="994" height="465" alt="image" src="https://github.com/user-attachments/assets/4f701e3d-3266-4c77-881b-6ee5834b1e42" />
 
 ---
 
